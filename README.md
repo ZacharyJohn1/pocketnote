@@ -1,4 +1,4 @@
-Setup
+## Setup
 Create a new Next.js app: npx create-next-app@latest --ts
 
 Download Pocketbase from pocketbase.io
